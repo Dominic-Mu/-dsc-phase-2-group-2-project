@@ -13,7 +13,7 @@
 Home buyers in King County need advice on factors influencing housing prices.
 
 ## Objectives
-We will use data analytics and predictive modeling techniques to provide homeowners, buyers, and investors with valuable insights for making informed decisions in this thriving real estate market.
+We will use data analytics and predictive modelling techniques to provide homeowners, buyers, and investors with valuable insights for making informed decisions in this thriving real estate market.
 
 Specifically, we will:
 
@@ -81,7 +81,7 @@ We will use a variety of data analytics and predictive modeling techniques to an
  * Year Renovated: Renovations positively impact house prices.
  * Location (Zipcode, Latitude, Longitude): These location-related variables significantly influence house prices.
 ### Recommendations
-* Property Improvement: Consider investing in property improvements, such as renovating or upgrading certain features, to potentially increase the property's value.
+* Property Improvement: Sellers should consider investing in property improvements, such as renovating or upgrading certain features, to potentially increase the property's value.
 * Location Matters: The location of the property, as indicated by variables like zipcode, latitude, and longitude, plays a significant role in house prices.
 * Bedrooms and Bathrooms: The number of bedrooms and bathrooms can affect prices. Sellers should highlight these features, and buyers should consider their needs.
 * Square Footage: Increasing square footage can positively impact property value. Sellers may benefit from maximizing usable living space.
